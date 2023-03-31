@@ -1,1 +1,1 @@
-This repo contains 0x10-python-network_0 task
+# Solutions to tasks on Python - Network #0
